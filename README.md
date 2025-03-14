@@ -1,3 +1,1 @@
-to run server 
-do 
-python app.py
+To run server do "python app.py"
