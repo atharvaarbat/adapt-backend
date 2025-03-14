@@ -1,0 +1,21 @@
+ID,Name,Date,CategoryID,Category,Coordinates,RiskLevel
+1,Village A,2023-01-01,2,Village,"(10, 20)",3
+2,City B,2023-02-15,1,City,"(15, 25)",1
+3,Bridge C,2023-03-10,3,Bridge,"(20, 30)",8
+4,Village D,2023-04-05,2,Village,"(25, 35)",4
+5,City E,2023-05-20,1,City,"(30, 40)",2
+6,Bridge F,2023-06-12,3,Bridge,"(35, 45)",9
+7,Village G,2023-07-08,2,Village,"(40, 50)",5
+8,City H,2023-08-17,1,City,"(45, 55)",1
+9,Bridge I,2023-09-22,3,Bridge,"(50, 60)",7
+10,Village J,2023-10-05,2,Village,"(55, 65)",6
+11,City K,2023-11-11,1,City,"(60, 70)",2
+12,Bridge L,2023-12-19,3,Bridge,"(65, 75)",10
+13,Village M,2024-01-03,2,Village,"(70, 80)",4
+14,City N,2024-02-14,1,City,"(75, 85)",1
+15,Bridge O,2024-03-21,3,Bridge,"(80, 90)",8
+16,Village P,2024-04-09,2,Village,"(85, 95)",5
+17,City Q,2024-05-16,1,City,"(90, 100)",2
+18,Bridge R,2024-06-25,1,Bridge,"(95, 105)",10
+19,Village S,2024-07-08,2,Village,"(100, 110)",6
+20,City T,2024-08-13,1,City,"(105, 115)",1

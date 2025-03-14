@@ -1,0 +1,12 @@
+Input: "Create a route from 'Village A' to 'Village B'. Do not include 'Village X'. Also avoid 'Bridge W'. Terrain conditions are Extreme."
+Output: 
+#api body
+{
+    start: "Village A",
+    end: "Village B",
+    avoid: ["Village X", "Bridge W"],
+    terrain: "extreme",
+    weather: ["sunny", "windy"],
+    convoey_size: 10,
+    
+}
